@@ -1,0 +1,7 @@
+TagName,Factor,Value,Unit
+Temp_01,Temperature,95,degF
+Temp_02,Temperature,300,kelvin
+Pressure_A,Pressure,120,psi
+Flow_1,Flow,15,gpm
+MotorSpeed,Speed,1800,rpm
+BadTag,Temperature,50,psi
